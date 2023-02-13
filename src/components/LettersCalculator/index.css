@@ -1,0 +1,70 @@
+.container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.image1 {
+  height: 180px;
+  width: 250px;
+}
+
+.heading {
+  color: white;
+  font-family: 'roboto';
+  font-size: 30px;
+}
+.subheading {
+  color: white;
+  font-family: 'roboto';
+  font-size: 15px;
+}
+.button-1 {
+  background-color: white;
+  border-radius: 5px;
+  height: 50px;
+  width: 150px;
+  border-width: 0px;
+  color: green;
+  font-weight: bold;
+  outline: none;
+  padding-top: 10px;
+}
+.imageContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding-left: 60px;
+  padding-right: 30px;
+  margin: 30px;
+}
+.newContainer1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.number1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.newContainer {
+  margin: 80px;
+  padding: 80px;
+}
+.text1 {
+  height: 40px;
+  width: 280px;
+  border-width: 0px;
+  border-radius: 8px;
+  border-color: white;
+  background-color: transparent;
+  border-width: 1px;
+  border-color: white;
+}
